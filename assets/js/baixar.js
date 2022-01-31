@@ -15,6 +15,6 @@ function baixar(versao) {
 
 
     var a = document.createElement("a");
-    a.href = "https://github.com/wsequipamentoshospitalares/wsequipamentoshospitalares.github.io/releases/download/" + version + "/wssistemas-" + version + ".apk";
+    a.href = "https://github.com/wsequipamentoshospitalares/wsequipamentoshospitalares.github.io/releases/download/" + version + "/wssistemas.apk";
     a.click();
 }
